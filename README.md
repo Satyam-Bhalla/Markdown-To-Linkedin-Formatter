@@ -10,6 +10,7 @@
 3. Upload the ZIP, provide required assets (screenshots, a 128x128 icon, description), and submit for review.
 4. Bump the version field in `manifest.json` for each release.
 =======
+
 This repository contains a simple Chrome extension that converts pasted Markdown text into a LinkedIn-friendly format using Unicode formatting.
 
 ## Installation
@@ -22,4 +23,3 @@ This repository contains a simple Chrome extension that converts pasted Markdown
 ## Development
 
 The conversion logic is implemented in `contentScript.js` and mirrors the behaviour of the original Python script. Feel free to modify it to suit your needs.
-
